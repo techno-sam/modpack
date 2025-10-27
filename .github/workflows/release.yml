@@ -2,6 +2,9 @@ name: Release
 
 on: [workflow_dispatch]
 
+permissions:
+    contents: write
+
 jobs:
     push-to-prod-branch:
       uses: ./.github/workflows/push-to-prod.yml
