@@ -30,7 +30,27 @@ hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "99952cb5424105ebdb3b4ac85c17d0312a1b9bfec40bc2096436c55d09f473db"
+hash = "03c15dc1c34097022ea1dae7430ce96328ad05371f1530f16422a1ba89b3dfb0"
+
+[[files]]
+file = "config/paxi/datapacks/Ichphilipps-Endcity-Better-End-1-21.zip"
+hash = "76109cc8b92219d22c8eca3e87c9bf7d04507f8edb4e3991b3705f10d082f829"
+
+[[files]]
+file = "config/paxi/datapacks/anti enderman grief v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "bb4d64fe6fde9edad5bacb21a960d8b973c32d1f5eaf60128306eebe1e2e5836"
+
+[[files]]
+file = "config/paxi/datapacks/nether portal coords v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "91cb0ca7a97af6abc596fa271dfd88619a1504d3056fb563cb029e4134c07902"
+
+[[files]]
+file = "config/paxi/datapacks/player head drops v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "310354d54ed65f619903dd07f1a5fcdb1fae47a4c39d234fbe39cb373040755c"
+
+[[files]]
+file = "config/paxi/datapacks/silence mobs v1.2.8 (MC 1.21-1.21.10).zip"
+hash = "934db02ab188038041283033a0eb4fea0aa6e9bc08d50b39e2c9c26fdac73747"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
