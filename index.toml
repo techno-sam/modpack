@@ -416,7 +416,3 @@ metafile = true
 [[files]]
 file = "unsup.ini"
 hash = "ed598b564556196880528328dd6327a12efbd81137412b4027882f1209cc15cf"
-
-[[files]]
-file = "vercel.json"
-hash = "6a1f66fbe3e0336652624f9cb7cc38a336f93807414ded031dcdb23f22ec7907"
