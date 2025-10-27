@@ -1,0 +1,17 @@
+name = "project_phoebe"
+author = "Slimeist"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "54f8139d4fefa9b3653f8472d2900cfb8ffd76929253d511689e1e02c35e8cf5"
+
+[versions]
+fabric = "0.16.4"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]
+datapack-folder = "config/paxi/datapacks"

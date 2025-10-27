@@ -1,0 +1,30 @@
+hash-format = "sha256"
+
+[[files]]
+file = "icon.png"
+hash = "f4b994d9ba3912277f5905c5a79969f0a87374dfbdf69c8280c70a03c62bb1c1"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "38362cd77cda6609ad8d9476bf13ae7481bad8d407a7fbdb8b317a64abc614d6"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "63bd51b7caf1b71ae2fe7583f4a1894f438c49423c6d1974a5b89863948c4210"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "11f5dcc17f9628867eafb30708e6872a569ff0eb8888d4e4d99cf1af073057b5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "c9652825f9cb65d2accfc03696868fc7c44e83f6bf03f62c39c3feaef3a59de1"
+metafile = true
