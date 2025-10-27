@@ -38,3 +38,4 @@ CNAME
 kubejs/probe
 jsconfig.json
 .vercel
+vercel.json
