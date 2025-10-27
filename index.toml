@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "25df4cda04790abf5c89a8b8727e04753e37685f49236b2bbad59502f4c24f6c"
+hash = "b7133a01c59ba1a04f0329d0d8e501753e586ef76f7c2b074ad498a683355a4e"
 
 [[files]]
 file = "config/bclib/main.json"
@@ -10,7 +10,7 @@ hash = "2a7fdc39ac4c990de5d15c5ff295a043ba15a9d60e4667bf63f8dff28284a66f"
 
 [[files]]
 file = "config/bclib/server.json"
-hash = "83a74f8fc0756a952758f5be0667ff5437dd99e832835b2a70d6a4ac1a9669f6"
+hash = "9c1c08033e4854eaab02dfa043cf49d32dea29bae253778c97321928b9454e92"
 
 [[files]]
 file = "config/betterend/client.json"
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "ef0625f04cabae4df283b90c69f8b4931b980b272b97e1721c2dcd9a5077e815"
+hash = "d752b5ef2796e0ac5e9a83d1c52c2577ec832408b05e0cc453e1f49f40f567e2"
 metafile = true
 
 [[files]]
