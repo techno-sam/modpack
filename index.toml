@@ -10,26 +10,26 @@ hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "115471f886681582b341259ddaa3f5fe0d33155619a2a8a926f1c85f4b45f95e"
+hash = "3f518629ac7f69098f7fbbc2dbea24eb65ca75aef5c565719ac8a8e9c8bb79a9"
 
 [[files]]
 file = "config/paxi/datapacks/BetterEndCities-Vanilla-1.21.zip"
 hash = "37577397d228e112eba127d1dace316b7da7e1348cb931b34958666305adfbee"
 
 [[files]]
-file = "config/paxi/datapacks/anti enderman grief v1.1.14 (MC 1.21-1.21.10).zip"
+file = "config/paxi/datapacks/anti-enderman-grief-v1.1.14.zip"
 hash = "bb4d64fe6fde9edad5bacb21a960d8b973c32d1f5eaf60128306eebe1e2e5836"
 
 [[files]]
-file = "config/paxi/datapacks/nether portal coords v1.1.14 (MC 1.21-1.21.10).zip"
+file = "config/paxi/datapacks/nether-portal-coords-v1.1.14.zip"
 hash = "91cb0ca7a97af6abc596fa271dfd88619a1504d3056fb563cb029e4134c07902"
 
 [[files]]
-file = "config/paxi/datapacks/player head drops v1.1.14 (MC 1.21-1.21.10).zip"
+file = "config/paxi/datapacks/player-head-drops-v1.1.14.zip"
 hash = "310354d54ed65f619903dd07f1a5fcdb1fae47a4c39d234fbe39cb373040755c"
 
 [[files]]
-file = "config/paxi/datapacks/silence mobs v1.2.8 (MC 1.21-1.21.10).zip"
+file = "config/paxi/datapacks/silence-mobs-v1.2.8.zip"
 hash = "934db02ab188038041283033a0eb4fea0aa6e9bc08d50b39e2c9c26fdac73747"
 
 [[files]]
