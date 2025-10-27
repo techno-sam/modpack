@@ -300,6 +300,11 @@ file = "mods/phonos-1.0.0-beta.40+fabric-1.21.1-build.5.jar"
 hash = "9a0c4810d489cc57470b1c13790e7646721daa9a933ef91147f995d04bdd3879"
 
 [[files]]
+file = "mods/phonos.pw.toml"
+hash = "42d065a4b14098a16a12f1f577e918941edabb3fda88c029cac64a01cb46614b"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "321106b9a028cb1aaff6a8f3dc138ca25abc6128c61ce28bb674b45ad8d39b64"
 metafile = true
