@@ -179,11 +179,6 @@ hash = "11e6b1c49edfb790ee98f7229bf8e2b2d62cfc34cfc9fabf10345676b3306d00"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "7004d6d04c19eaa92fda0b47ac70b7c85987c47cc1431313014c5e9367679173"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
 metafile = true
@@ -291,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f80f45f4db1eff307c014f826737b5db5b2297f017182e7adca72815984a9dae"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-hash = "434b8eef9d1e3638fd8bc5b74d277afaa17846afa21cdf7ef28cf4f3ba50f445"
 metafile = true
 
 [[files]]
