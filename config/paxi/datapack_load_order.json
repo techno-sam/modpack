@@ -1,9 +1,9 @@
 {
     "loadOrder": [
-        "datapacks/anti enderman grief v1.1.14 (MC 1.21-1.21.10).zip",
-        "datapacks/nether portal coords v1.1.14 (MC 1.21-1.21.10).zip",
-        "datapacks/player head drops v1.1.14 (MC 1.21-1.21.10).zip",
-        "datapacks/silence mobs v1.2.8 (MC 1.21-1.21.10).zip",
-        "datapacks/Ichphilipps-Endcity-Better-End-1-21.zip"
+        "anti enderman grief v1.1.14 (MC 1.21-1.21.10).zip",
+        "nether portal coords v1.1.14 (MC 1.21-1.21.10).zip",
+        "player head drops v1.1.14 (MC 1.21-1.21.10).zip",
+        "silence mobs v1.2.8 (MC 1.21-1.21.10).zip",
+        "Ichphilipps-Endcity-Better-End-1-21.zip"
     ]
 }
