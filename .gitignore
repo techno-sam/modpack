@@ -25,3 +25,4 @@ kubejs/probe/*
 # ProbeJS config
 
 jsconfig.json
+.vercel
