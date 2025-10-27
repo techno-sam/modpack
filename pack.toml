@@ -1,12 +1,12 @@
 name = "project_phoebe"
 author = "Slimeist"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1b58dfe8d3c61b6ca76651cd72cc27becdd69fe506a93916a1e1a1cfecd88cb3"
+hash = "303e8154265d5594a0c7b5a320ce552074eb2ec367fa8e3ba09beedbb81a7c6b"
 
 [versions]
 fabric = "0.17.3"
