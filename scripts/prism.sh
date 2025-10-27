@@ -7,4 +7,4 @@ mkdir -p output/
 cd prism/ || exit
 
 # Zip it up and place it in output folder
-zip -r ../output/RailwaysPrismPack.zip .
+zip -r ../output/PhoebePrismPack.zip .
