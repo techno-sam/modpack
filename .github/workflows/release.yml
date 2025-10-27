@@ -5,8 +5,12 @@ on: [workflow_dispatch]
 jobs:
     push-to-prod-branch:
       uses: ./.github/workflows/push-to-prod.yml
+      permissions:
+        contents: write
     release:
         runs-on: ubuntu-latest
+        permissions:
+          contents: write
         steps:
             - name: Checkout Repository
               uses: actions/checkout@v4
