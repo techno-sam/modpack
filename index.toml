@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-early-loading-screen-fabric.pw.toml"
-hash = "7b24c18412ed7599e33118b506efe038e9e5455d02e8037f1eaf81ed1d361913"
+hash = "ff6ef0bde5ec3ab82001253865eda784e4b6da8bb184c1aa3844c1c390e68224"
 metafile = true
 
 [[files]]
