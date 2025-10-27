@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vercel/README.txt"
+hash = "f5d1ed0f5032ae128931f46459b5faa1af6319fc2dfb3e7a5fe54a84bf93dbd6"
+
+[[files]]
+file = ".vercel/project.json"
+hash = "8a21343d88307b1ff17f6baea3e640df92cb51b2642a40f49e92a09f408b04ff"
+
+[[files]]
 file = "config/bclib/client.json"
-hash = "08c0a94cacc2235d23ac52bb4e7d9e48ca6095ffc140a459061c4898a9ba3982"
+hash = "25df4cda04790abf5c89a8b8727e04753e37685f49236b2bbad59502f4c24f6c"
 
 [[files]]
 file = "config/bclib/main.json"
@@ -11,6 +19,14 @@ hash = "2a7fdc39ac4c990de5d15c5ff295a043ba15a9d60e4667bf63f8dff28284a66f"
 [[files]]
 file = "config/bclib/server.json"
 hash = "83a74f8fc0756a952758f5be0667ff5437dd99e832835b2a70d6a4ac1a9669f6"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "c68f0621ec6fb342b4ee08cd951c4d553fd2b999ebe260b8903d77ea75359435"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "0693b198129e91fa8279f5d74a05b5d1408805aed35f43beadc7d8fb52006bcd"
 
 [[files]]
 file = "config/logbegone.toml"
@@ -296,10 +312,6 @@ hash = "63bd51b7caf1b71ae2fe7583f4a1894f438c49423c6d1974a5b89863948c4210"
 metafile = true
 
 [[files]]
-file = "mods/phonos-1.0.0-beta.40+fabric-1.21.1-build.5.jar"
-hash = "9a0c4810d489cc57470b1c13790e7646721daa9a933ef91147f995d04bdd3879"
-
-[[files]]
 file = "mods/phonos.pw.toml"
 hash = "42d065a4b14098a16a12f1f577e918941edabb3fda88c029cac64a01cb46614b"
 metafile = true
@@ -412,3 +424,7 @@ metafile = true
 [[files]]
 file = "unsup.ini"
 hash = "ed598b564556196880528328dd6327a12efbd81137412b4027882f1209cc15cf"
+
+[[files]]
+file = "vercel.json"
+hash = "6a1f66fbe3e0336652624f9cb7cc38a336f93807414ded031dcdb23f22ec7907"
