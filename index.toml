@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/bclib/client.json"
-hash = "b7133a01c59ba1a04f0329d0d8e501753e586ef76f7c2b074ad498a683355a4e"
-
-[[files]]
-file = "config/bclib/main.json"
-hash = "2a7fdc39ac4c990de5d15c5ff295a043ba15a9d60e4667bf63f8dff28284a66f"
-
-[[files]]
-file = "config/bclib/server.json"
-hash = "9c1c08033e4854eaab02dfa043cf49d32dea29bae253778c97321928b9454e92"
-
-[[files]]
-file = "config/betterend/client.json"
-hash = "c68f0621ec6fb342b4ee08cd951c4d553fd2b999ebe260b8903d77ea75359435"
-
-[[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "0693b198129e91fa8279f5d74a05b5d1408805aed35f43beadc7d8fb52006bcd"
-
-[[files]]
 file = "config/logbegone.toml"
 hash = "002d376dd95d9c43466967a6049aeb48d252af2ee507b1c0ac489fe0987b6906"
 
@@ -30,11 +10,11 @@ hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "4f73b9c6dd3a86d47e20e2919a61e74cf1b1252b3c3fbe3380beb56be7404e7d"
+hash = "115471f886681582b341259ddaa3f5fe0d33155619a2a8a926f1c85f4b45f95e"
 
 [[files]]
-file = "config/paxi/datapacks/Ichphilipps-Endcity-Better-End-1-21.zip"
-hash = "76109cc8b92219d22c8eca3e87c9bf7d04507f8edb4e3991b3705f10d082f829"
+file = "config/paxi/datapacks/BetterEndCities-Vanilla-1.21.zip"
+hash = "37577397d228e112eba127d1dace316b7da7e1348cb931b34958666305adfbee"
 
 [[files]]
 file = "config/paxi/datapacks/anti enderman grief v1.1.14 (MC 1.21-1.21.10).zip"
@@ -89,11 +69,6 @@ hash = "3fb2b63698bb69c5c2f2e81d7e6e9c040946e536c951a688cabb087c5e84f6d6"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "04658b2af1dcf1669a6b73522dbf2076078a6bbb0f84c379d74051b7a4ebc79b"
-metafile = true
-
-[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "09e3c3e42ce009375c78086957cd569b080ce5052c9be3b106e1655471ad4595"
 metafile = true
@@ -106,11 +81,6 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "600b3dd60d22808480a8264e104c116e93179b1a7ed72ae3e01ddbd7eea524bc"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "bd3718cc882f4cff9723fcb35e29da709990ca8c95263ff4a25b0c6647c73cc2"
 metafile = true
 
 [[files]]
@@ -309,6 +279,11 @@ hash = "f80f45f4db1eff307c014f826737b5db5b2297f017182e7adca72815984a9dae"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "434b8eef9d1e3638fd8bc5b74d277afaa17846afa21cdf7ef28cf4f3ba50f445"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "63bd51b7caf1b71ae2fe7583f4a1894f438c49423c6d1974a5b89863948c4210"
 metafile = true
@@ -396,11 +371,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "0ed54b1edcc610d683565b957af9921940c7e913160b2c88c108959f4056ac8e"
-metafile = true
-
-[[files]]
-file = "mods/worldweaver.pw.toml"
-hash = "91195be1b38d66cf028420212ef1426564e1e2f02da598d0054e6108c2ba92c1"
 metafile = true
 
 [[files]]
