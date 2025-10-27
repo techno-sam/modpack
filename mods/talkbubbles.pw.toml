@@ -1,0 +1,13 @@
+name = "TalkBubbles"
+filename = "talkbubbles-1.0.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BUpChT1v/versions/MEHKQGEi/talkbubbles-1.0.8.jar"
+hash-format = "sha1"
+hash = "2c4707616e9d0a3644981e65e23760d1c3745908"
+
+[update]
+[update.modrinth]
+mod-id = "BUpChT1v"
+version = "MEHKQGEi"
