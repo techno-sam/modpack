@@ -49,6 +49,16 @@ file = "icon.png"
 hash = "f4b994d9ba3912277f5905c5a79969f0a87374dfbdf69c8280c70a03c62bb1c1"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "d16b7800c8a7acf157deda1e99d55f447efe3e0eb65c731a089c9a14aa791db6"
+metafile = true
+
+[[files]]
+file = "mods/anshar.pw.toml"
+hash = "83e0f90a557b8ff298792a2b56fd7672de27f1f2486c956134eed943a43e2e02"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "d7bca737e3761ed93621be2b3bd30e8e07d5f22079e9dff934bc11f0e7b6d06e"
 metafile = true
@@ -90,17 +100,22 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "3346dff03bf04d048dc007986f94639a941e18d95cc78349bfe180d455d88173"
+hash = "0018d9b8ab12f0e5471717c9993fc4510813353e447bbfa782a43bc9786269bf"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "4b7d1bdb1c0e8e349be41cad57e61abdfaf47eccb4c30e4c4bf32960f2260835"
+hash = "c1c0a579143f67484eab48fffc1412db4cd9085dd72b418551a7ea8ca4525ca7"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "0b246d7bbd4eb31f8e57a1f05448ebfbf2698c2152d309e8eebe622c6ce02d23"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "990554d988ff60efcbd0d33d8db77c7bdfb84c53670e39bab6271ce55b1300d2"
 metafile = true
 
 [[files]]
@@ -156,16 +171,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "44ce91936136fb30c08b2f062e6d92493f1f2cc5a526a8039b54d1ae3f61279c"
-metafile = true
-
-[[files]]
-file = "mods/fast-item-frames.pw.toml"
-hash = "d63ab32ab90ba4bfafc4a6fa2eb5a63d0d3ba7018588f49047e1c47a6fff96df"
-metafile = true
-
-[[files]]
-file = "mods/fast-paintings.pw.toml"
-hash = "11e6b1c49edfb790ee98f7229bf8e2b2d62cfc34cfc9fabf10345676b3306d00"
 metafile = true
 
 [[files]]
@@ -234,6 +239,11 @@ hash = "850ed151f3ba6a2ba46e76270efe4ceafbf36cfa1c4f2b3f9a8806584c2e27fb"
 metafile = true
 
 [[files]]
+file = "mods/lavender.pw.toml"
+hash = "caaafbdc0ce619f6661ca2532b56664a3bc04f0427702342862db15ae88cbe8c"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "bcb99877e0d8940a9d7a09e9b595b6baf1928f040b25c3398c6358da13074e26"
 metafile = true
@@ -281,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "434b8eef9d1e3638fd8bc5b74d277afaa17846afa21cdf7ef28cf4f3ba50f445"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "9db90dbca5f74ae9eef6d3bfef116b2c93eb52e1151df241e35b358754594e95"
 metafile = true
 
 [[files]]
@@ -366,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/trickster.pw.toml"
+hash = "3360f5ec3e0bc08afe06ccd587dcee2c9fd2fcd770d34305331e8dc2a5fa6d4c"
 metafile = true
 
 [[files]]
